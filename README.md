@@ -84,11 +84,11 @@ I wrote my dissertation on the changing technicalogical and social impact of mob
 - Physics - A
 
 #### Standard Grades
-- 7 x Grade 1 A*'s 
+- 7 x Grade 1 
 
 ## Interests
 
-
+I am a keen investor and enjoy reading about wealth management, financial products and maro-economic news. International travel is a passion of mine, especially to areas of natural beauty and UNESCO world heritage sites. I love roaming around the Scottish countryside with my stout little beagle (Oscar) and try and bag a munroe when I can. I have recently completed my PADI Open Water and would love to gain more advanced qualifications in scuba diving.     
 
 
 
