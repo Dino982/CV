@@ -44,7 +44,8 @@ JP Morgan - mananaged voluntary and mandatory corporate actions throughout their
 - Rspec, Jasmine, Mocha
 
 
-#### MEng Mechanical & Offshore Engineering: 1st Class Honors - Robert Gordon University (Sept 2009 - Jul 2013)
+#### MEng Mechanical & Offshore Engineering: 1st Class Honors
+**Robert Gordon University (Sept 2009 - Jul 2013)**
 
 - Statics & Dynamics
 - Thermofluids
@@ -56,12 +57,12 @@ JP Morgan - mananaged voluntary and mandatory corporate actions throughout their
 - Petroleum Engineering
 - Offshore Engineering
 - Environmental Engineering
-
-Dissertation: a study on annular wellbore cement failures and hydrocarbon migration. 
-
+- Dissertation: a study on annular wellbore cement failures and hydrocarbon migration. 
 
 
-#### Geography & Geoscience: 2:1 - St Andrews University (Sept 2001 - July 2005)
+
+#### Geography & Geoscience: 2:1
+**St Andrews University (Sept 2001 - July 2005)**
 - Petroleum Exploration & Geophysics
 - GIS & Cartography
 - Structural Geology & Tectonics 
@@ -71,12 +72,11 @@ Dissertation: a study on annular wellbore cement failures and hydrocarbon migrat
 - Cities, Societies & Space
 - Oceans & Climate
 - Atmospheric pollution
-
-Dissertation: an investigation into the changing technicalogical and social impacts of mobile phone usage. 
-
+- Dissertation: an investigation into the changing technicalogical and social impacts of mobile phone usage. 
 
 
-#### Oldmachar Academy Scottish Highers
+
+#### Oldmachar Academy - Scottish Highers
 - Chemistry - A
 - English - A
 - French - A
@@ -84,8 +84,7 @@ Dissertation: an investigation into the changing technicalogical and social impa
 - Mathematics - A
 - Physics - A
 
-
-#### Standard Grades
+#### Oldmachar Academy - Standard Grades
 - 7 x Grade 1 
 
 
