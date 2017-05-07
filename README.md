@@ -4,6 +4,7 @@ I am a highly capable and competent professional with a proven track record of d
 
 A life-long passion for learning, turning ideas into systems / structures and bringing order to chaos has led me to my latest adventure at Makers Acdemy; a 12 week intensive coding bootcamp. After completing Makers, my intention is to find a role as a Junior Developer and further enhance my skills by working with and learning from others who are passionate about clean code, TDD, OOP and agile development. Ideally, I want to work for an organisation focussed on developing great software that makes peoples' lives more enjoyable and easier to manage.  
 
+
 ## Skills
 
 #### Teamwork & Communication
@@ -18,6 +19,7 @@ JP Morgan - interfaced with local (UK & London-based) and international teams (U
 BP - experienced in identifying, analysing and mitigating against financial, operational and HSE risks as part of the Magnus D4 well abandonment. Proven ability to deliver agreed work-scopes within tight timeframes by ensuring that projects (e.g. Magnus D4 structure removal & well abandonment) progressed through stage gates at agreed times. Ensured appropriate management-of-change was communicated and understood during planning and execution of D4 structure removal. 
 
 JP Morgan - mananaged voluntary and mandatory corporate actions throughout their life-cycle ensuring that fund managers were well-informed and able to identify risks and opportunities. Mananged databases, monitored risk systems and investigated / resolved accounting breaks as part of the Global Commodities & Curruncies Group (GCCG).    
+
 
 ## Experience
 
@@ -40,6 +42,7 @@ JP Morgan - mananaged voluntary and mandatory corporate actions throughout their
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
+
 
 #### MEng Mechanical & Offshore Engineering: 1st Class Honors - Robert Gordon University (Sept 2009 - Jul 2013)
 
@@ -79,8 +82,10 @@ Dissertation: an investigation into the changing technicalogical and social impa
 - Mathematics - A
 - Physics - A
 
+
 #### Standard Grades
 - 7 x Grade 1 
+
 
 ## Interests
 
