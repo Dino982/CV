@@ -41,9 +41,8 @@ JP Morgan: Mananaged voluntary and mandatory corporate actions throughout their 
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-## Robert Gordon University (September 2009 to July 2013)
+#### MEng Mechanical & Offshore Engineering: 1st Class Honors - Robert Gordon University (Sept 2009 - Jul 2013)
 
-#### MEng Mechanical & Offshore Engineering - 1st Class Honors
 - Statics & Dynamics
 - Thermofluids
 - Control and Instrumentation
@@ -57,9 +56,8 @@ JP Morgan: Mananaged voluntary and mandatory corporate actions throughout their 
 
 I wrote my dissertation on annular wellbore cement failures and hydrocarbon migration. 
 
-## St Andrews University (September 2001 to July 2005)
 
-#### Geography & Geoscience  - 2:1
+#### Geography & Geoscience: 2:1 - St Andrews University (Sept 2001 - July 2005)
 - Petroleum Exploration & Geophysics
 - GIS & Cartography
 - Structural Geology & Tectonics 
@@ -73,9 +71,7 @@ I wrote my dissertation on annular wellbore cement failures and hydrocarbon migr
 I wrote my dissertation on the changing technicalogical and social impact of mobile phone usage. 
 
 
-## Oldmachar Academy
-
-#### Scottish Highers
+#### Oldmachar Academy Scottish Highers
 - Chemistry - A
 - English - A
 - French - A
