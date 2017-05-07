@@ -60,6 +60,7 @@ JP Morgan - mananaged voluntary and mandatory corporate actions throughout their
 Dissertation: a study on annular wellbore cement failures and hydrocarbon migration. 
 
 
+
 #### Geography & Geoscience: 2:1 - St Andrews University (Sept 2001 - July 2005)
 - Petroleum Exploration & Geophysics
 - GIS & Cartography
@@ -72,6 +73,7 @@ Dissertation: a study on annular wellbore cement failures and hydrocarbon migrat
 - Atmospheric pollution
 
 Dissertation: an investigation into the changing technicalogical and social impacts of mobile phone usage. 
+
 
 
 #### Oldmachar Academy Scottish Highers
