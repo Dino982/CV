@@ -17,7 +17,18 @@ JP Morgan: interfaced with local (UK/London-based) and international teams (US, 
 
 BP: experienced in identifying, analysing and mitigating against financial/operational and HSE risks as part of the Magnus D4 well abandonment. Proven ability to deliver agreed work-scopes within tight timeframes by ensuring that projects (Magnus D4 structure removal & well abandonment) progress through stage gates at agreed times. Ensured appropriate management-of-change was communicated and understood during planning and execution of D4 structure removal. 
 
-JP Morgan:  
+JP Morgan: Mananaged voluntary and mandatory corporate actions throughout their life-cycle ensuring that fund managers were well-informed and able to identify risks and opportunities. Mananged databases, monitored risk systems and investigated / resolved accounting breaks as part of the Global Commodities & Curruncies Group.    
+
+## Experience
+
+**The Show Hub - Dubai** (Sept 2016 to April 2017)    
+*Business & Media Consultant*  
+**BP - Aberdeen NSHQ** (June 2013 to Jan 2016)   
+*Drilling Engineer / Project Manager*  
+**JP Morgan - London** (Feb 2006 to Feb 2009)   
+*Business Analyst*  
+
+
 
 ## Education
 
@@ -75,10 +86,9 @@ I wrote my dissertation on the changing technicalogical and social impact of mob
 #### Standard Grades
 - 7 x Grade 1 A*'s 
 
+## Interests
 
-## Experience
 
-**The Show Hub - Dubai** (Sept 2016 to April 2017)    
-*Business & Media Consultant*  
-**BP - Aberdeen NSHQ** (June 2013 to Jan 2016)   
-*Drilling Engineer*  
+
+
+
