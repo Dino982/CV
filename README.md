@@ -45,7 +45,7 @@ JP Morgan - mananaged voluntary and mandatory corporate actions throughout their
 
 
 #### MEng Mechanical & Offshore Engineering: 1st Class Honors
-Robert Gordon University (Sept 2009 - Jul 2013)
+#####Robert Gordon University (Sept 2009 - Jul 2013)#####
 
 - Statics & Dynamics
 - Thermofluids
