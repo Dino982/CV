@@ -44,34 +44,27 @@ JP Morgan - mananaged voluntary and mandatory corporate actions throughout their
 - Rspec, Jasmine, Mocha
 
 
-#### MEng Mechanical & Offshore Engineering - Robert Gordon University (Sept 2009 - Jul 2013)####
+#### MEng Mechanical & Offshore Engineering - Robert Gordon University (Sept 2009 - Jul 2013)
 
-- 1st Class Honours
 - Statics & Dynamics
 - Thermofluids
-- Control and Instrumentation
-- Product Development
 - Mechanics of Solids
 - Signal Acquisition, Instrumentation and Control
 - Safety, Risk and Reliability Management
-- Petroleum Engineering
-- Offshore Engineering
+- Petroleum & Offshore Engineering
 - Environmental Engineering
 - Dissertation: a study on annular wellbore cement failures and hydrocarbon migration. 
 
 
 
 #### Geography & Geoscience - St Andrews University (Sept 2001 - July 2005)
-- 2:1
 - Petroleum Exploration & Geophysics
-- GIS & Cartography
+- GIS & Cartography & Geological Mapping
 - Structural Geology & Tectonics 
-- Advanced Geological Mapping
 - Igneous and Metamorphic Petrology
 - Sedimentology & Stratigraphy
 - Cities, Societies & Space
 - Oceans & Climate
-- Atmospheric pollution
 - Dissertation: an investigation into the changing technicalogical and social impacts of mobile phone usage. 
 
 
