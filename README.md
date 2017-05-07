@@ -10,7 +10,7 @@ A life-long passion for learning, turning ideas into systems / structures and br
 
 BP - worked as the main Drilling Engineer / Project Manager for the abandonment of an old well (Magnus D4) with integrity issues, which required the engagement of a multi-discipline team (Subsea Engineering, Well Interventions, Subsurface Geology, Drilling etc.) to devise solutions for complex engineering challenges. Confident at communicating engineering and business issues with colleagues of varying seniorities via a variety of mediums (technical file notes, SoR's, powerpoint presentations, engineering analysis documents etc.) 
 
-JP Morgan - interfaced with local (UK & London-based) and international teams (US, India, Japan) to investigate and resolve financial breaks between different teams (Accounting, Settlements, Payments, Corporate Actions) whislt working as part of the Accounting & Control team. 
+JP Morgan - interfaced with local (UK & London-based) and international teams (US, India, Japan) to investigate and resolve financial breaks between different teams (Accounting, Settlements, Payments, Corporate Actions) whilst working as part of the Accounting & Control team. 
 
 
 #### Project & Risk Management
