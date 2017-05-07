@@ -6,22 +6,18 @@ A life-long passion for learning and converting ideas into tangibles has led me 
 
 ## Skills
 
-#### This Skill
+#### Teamwork & Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+BP: worked as the main Drilling Engineer/Project Manager for the abandonment of an old well (Magnus D4) with integrity issues, which required the engagement of a multi-discipline team (Subsea Engineering, Well Interventions, Subsurface Geology, Drilling etc.) to devise solutions for complex engineering challenges. Confident at communicating engineering and financial issues with colleagues of varying seniorities via a variety of mediums (technical file notes, SoR's, powerpoint presentations, engineering analysis documents) 
 
-- Experience
-- Achievements
-- Evidence
+JP Morgan: interfaced with local (UK/London-based) and international teams (US, India, Japan) to investigate and resolve financial breaks between different (Accounting, Settlements, Payments, Corporate Actions etc.) teams whilst working as part of the Accounting & Control team. 
 
-#### Another Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Project & Risk Management
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+BP: experienced in identifying, analysing and mitigating against financial/operational and HSE risks as part of the Magnus D4 well abandonment. Proven ability to deliver agreed work-scopes within tight timeframes by ensuring that projects (Magnus D4 structure removal & well abandonment) progress through stage gates at agreed times. Ensured appropriate management-of-change was communicated and understood during planning and execution of D4 structure removal. 
+
+JP Morgan:  
 
 ## Education
 
@@ -82,7 +78,7 @@ I wrote my dissertation on the changing technicalogical and social impact of mob
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**The Show Hub - Dubai** (Sept 2016 to April 2017)    
+*Business & Media Consultant*  
+**BP - Aberdeen NSHQ** (June 2013 to Jan 2016)   
+*Drilling Engineer*  
