@@ -25,7 +25,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April 2017 - July 2017)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -34,13 +34,49 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+## Robert Gordon University (September 2009 to July 2013)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### MEng Mechanical & Offshore Engineering - 1st Class Honors
+- Statics & Dynamics
+- Thermofluids
+- Control and Instrumentation
+- Product Development
+- Mechanics of Solids
+- Signal Acquisition, Instrumentation and Control
+- Safety, Risk and Reliability Management
+- Petroleum Engineering
+- Offshore Engineering
+- Environmental Engineering
+I wrote my dissertation on annular wellbore cement failures and hydrocarbon migration. 
 
-#### Any other qualifications
+## St Andrews University (September 2001 to July 2005)
+
+#### Geography & Geoscience  - 2:1
+- Petroleum Exploration & Geophysics
+- GIS & Cartography
+- Structural Geology & Tectonics 
+- Advanced Geological Mapping
+- Igneous and Metamorphic Petrology
+- Sedimentology & Stratigraphy
+- Cities, Societies & Space
+- Oceans & Climate
+- Atmospheric pollution
+I wrote my dissertation on the changing technicalogical and social impact of mobile phone usage. 
+
+
+## Oldmachar Academy
+
+#### Scottish Highers
+- Chemistry - A
+- English - A
+- French - A
+- Geography - A
+- Mathematics - A
+- Physics - A
+
+#### Standard Grades
+- 7 x Grade 1 A*'s 
+
 
 ## Experience
 
