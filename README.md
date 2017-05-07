@@ -44,9 +44,9 @@ JP Morgan - mananaged voluntary and mandatory corporate actions throughout their
 - Rspec, Jasmine, Mocha
 
 
-#### MEng Mechanical & Offshore Engineering: 1st Class Honors
-#####Robert Gordon University (Sept 2009 - Jul 2013)#####
+#### MEng Mechanical & Offshore Engineering - Robert Gordon University (Sept 2009 - Jul 2013)####
 
+- 1st Class Honours
 - Statics & Dynamics
 - Thermofluids
 - Control and Instrumentation
@@ -61,8 +61,8 @@ JP Morgan - mananaged voluntary and mandatory corporate actions throughout their
 
 
 
-#### Geography & Geoscience: 2:1
-St Andrews University (Sept 2001 - July 2005)
+#### Geography & Geoscience - St Andrews University (Sept 2001 - July 2005)
+- 2:1
 - Petroleum Exploration & Geophysics
 - GIS & Cartography
 - Structural Geology & Tectonics 
