@@ -1,8 +1,8 @@
 ## Andrew Clarke
 
-I'm a highly capable and competent professional with a proven track record of delivering accurate, high quality technical analysis (engineering & financial) and supporting documentation. My main strength lies in working in colloborative environments where I can communicate effectively and interface with multi-discipline teams to provide integrated solutions for complex projects. I love to bring order to chaos and have a passion for turning ideas into logical systems and structures. 
+I'm a highly capable and competent professional with a proven track record of delivering accurate, high quality technical analysis (engineering & financial) and supporting documentation. My main strength lies in working in colloborative environments where I communicate effectively and interface with multi-discipline teams to provide integrated solutions for complex projects. I love to bring order to chaos and have a passion for turning ideas into logical systems and structures. 
 
-A life-long passion for learning and converting ideas into tangibles has led me to my latest adventure at Makers Acdemy - a 12 week intensive coding bootcamp. After completing Makers, my intention is to find a role as a Junior Developer and further enhance my skills by working with and learning from others who are passionate about clean code, TDD, OOP and agile development. 
+A life-long passion for learning and converting ideas into tangibles has led me on my latest adventure at Makers Acdemy - a 12 week intensive coding bootcamp. After completing Makers, my intention is to find a role as a Junior Developer and further enhance my skills by working with and learning from others who are passionate about clean code, TDD, OOP and agile development. 
 
 ## Skills
 
