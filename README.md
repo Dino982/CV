@@ -83,7 +83,7 @@ JP Morgan - mananaged voluntary and mandatory corporate actions throughout their
 
 ## Interests
 
-I am a keen investor and enjoy reading about wealth management, financial products and maro-economic news. International travel is a passion of mine, especially to areas of natural beauty and UNESCO world heritage sites. I love roaming around the Scottish countryside with my stout little beagle (Oscar) and try and bag a munro when I can. I have recently completed my PADI Open Water and would love to gain more advanced qualifications in scuba diving.     
+I am a keen investor and enjoy reading about wealth management, financial products and maro-economic news. International travel is a passion of mine, especially to areas of natural beauty and UNESCO world heritage sites. I love roaming around the Scottish countryside with my stout little beagle (Oscar) and try to bag a munro whenever I can. I have recently completed my PADI Open Water certificate and would love to gain more advanced qualifications in scuba diving.     
 
 
 
