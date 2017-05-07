@@ -47,6 +47,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Petroleum Engineering
 - Offshore Engineering
 - Environmental Engineering
+
 I wrote my dissertation on annular wellbore cement failures and hydrocarbon migration. 
 
 ## St Andrews University (September 2001 to July 2005)
@@ -61,6 +62,7 @@ I wrote my dissertation on annular wellbore cement failures and hydrocarbon migr
 - Cities, Societies & Space
 - Oceans & Climate
 - Atmospheric pollution
+
 I wrote my dissertation on the changing technicalogical and social impact of mobile phone usage. 
 
 
